@@ -1,1 +1,1 @@
-hello
+My stupid boss still prefers SVN.
